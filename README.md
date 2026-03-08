@@ -29,6 +29,8 @@ Shipping Cost
 
 Total records: 50,000+ orders
 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
 Business Problem
 
 Retail companies often struggle to identify:
@@ -43,6 +45,7 @@ Shipping efficiency and delivery time
 
 This dashboard helps stakeholders monitor business performance and identify improvement opportunities
 
+-------------------------------------------------------------------------------------------------------------------------------------------------
 Tools & Technologies
 
 Power BI
@@ -54,6 +57,8 @@ DAX
 Data Modeling
 
 Data Visualization
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 Data Preparation
 
